@@ -1,6 +1,6 @@
 # Spooky Castle Project
 
-I will be posting my workflow scripts here for the video series I am creating on my youtube channle here: https://youtu.be/aft83fjpINI
+I will be posting my workflow scripts here for the video series I am creating on my youtube channel here: https://youtu.be/aft83fjpINI
 
 I am recreating my own version of the game spooky castle from 1997 in the Godot game engine.
 
