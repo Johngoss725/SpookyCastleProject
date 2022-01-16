@@ -1,6 +1,8 @@
 # Spooky Castle Project
 
+Here is a repository where I have placed a few workflow scripts that could be used to automate the blender to godot sprite pipeline. 
 I will be posting my workflow scripts here for the video series I am creating on my youtube channel here: https://youtu.be/aft83fjpINI
+ 
 
 I am recreating my own version of the game spooky castle from 1997 in the Godot game engine.
 
